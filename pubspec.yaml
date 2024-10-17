@@ -1,0 +1,17 @@
+name: flutter_advanced_logger
+description: A powerful and flexible logging utility for Flutter applications, providing detailed context for each log entry including file names and line numbers.
+version: 1.0.0
+homepage: https://github.com/Shahidbangash/flutter_advanced_logger
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
